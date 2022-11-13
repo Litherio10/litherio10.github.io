@@ -25,7 +25,7 @@ nav ul li{display:inline-block;margin:10px}
 nav ul{list-style:none}
 article{border-bottom:2px dotted #998;padding-bottom:20px;margin-bottom:20px}
 article h2{font-weight:normal;margin-bottom:12px}
-footer{background:#344;max-width:1000px;margin:0 -20px;clear:both;text-align:right}
+footer{background:#344;max-width:1000px;margin:0 -20px;clear:both;text-align:left}
 footer p{padding:20px;color:#FFF}
 address{padding:10px 20px 30px 10px}
 aside > div{margin:10px auto;background:#344;min-height:150px;padding:30px 10px;text-align:center;color:#FFF}
